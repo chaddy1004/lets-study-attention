@@ -6,3 +6,4 @@ Additionally, [Transformer Tutorial](https://pytorch.org/tutorials/beginner/tran
 
 Breakdown has 4 main sections:
 1. InputEmbedding - Details how the input data gets encoded using the method described from the paper.
+2. MultiHead Attention - Details the implemention of Attention module, and ultimately the MultiHead Attention module.
